@@ -1,0 +1,15 @@
+h1 {
+	color: red;
+}
+
+li {
+	cursor: pointer;
+}
+
+li.found {
+	background-color: yellow;
+}
+
+button {
+	color: red;
+}
